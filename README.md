@@ -1,7 +1,7 @@
 # Re-examination of the Role of Latent Variables in Sequence Modeling
 
 This repository contains the code in PyTorch for our paper
->[Re-examination of the Role of Latent Variables in Sequence Modeling]()
+>[Re-examination of the Role of Latent Variables in Sequence Modeling](https://arxiv.org/abs/1902.01388)
 
 >Zihang Dai\*, Guokun Lai\*, Yiming Yang, Shinjae Yoo (*: equal contribution)
 
