@@ -5,7 +5,7 @@ This repository contains the code in PyTorch for our paper
 
 >Zihang Dai\*, Guokun Lai\*, Yiming Yang, Shinjae Yoo (*: equal contribution)
 
->Preprint 2019
+>NeurIPS 2019
 
 
 
