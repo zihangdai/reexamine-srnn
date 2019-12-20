@@ -9,7 +9,7 @@ This repository contains the code in PyTorch for our paper
 
 
 
-##Replicating results in the paper
+## Replicating results in the paper
 
 For each type of datasets (`speech`, `midi`, `handwriting`), please refer to the `README.md` in the **corresponding directory** in the repo for detailed instructions for replicating our work.
 
